@@ -1,0 +1,9 @@
+2024-01-12 06:27:09 INFO  [utils.Base] Browser Launched
+2024-01-12 06:27:12 INFO  [utils.Base] Browser Loaded the URL
+2024-01-12 06:27:14 INFO  [pages.homepage] 1234
+2024-01-12 06:27:14 INFO  [pages.homepage] qwert
+2024-01-12 06:27:14 INFO  [pages.homepage] Chrome
+2024-01-12 06:27:14 INFO  [pages.homepage] Info Message!
+2024-01-12 06:27:14 WARN  [pages.homepage] Warn Message!
+2024-01-12 06:27:14 ERROR [pages.homepage] Error Message!
+2024-01-12 06:27:14 FATAL [pages.homepage] Fatal Message!
