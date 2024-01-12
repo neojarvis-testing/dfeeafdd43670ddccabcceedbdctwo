@@ -1,0 +1,27 @@
+2024-01-12 06:28:00 INFO  [utils.Base] Browser Launched
+2024-01-12 06:28:02 INFO  [utils.Base] Browser Loaded the URL
+2024-01-12 06:28:04 INFO  [pages.homepage] 1234
+2024-01-12 06:28:04 INFO  [pages.homepage] qwert
+2024-01-12 06:28:04 INFO  [pages.homepage] Chrome
+2024-01-12 06:28:05 INFO  [pages.homepage] Info Message!
+2024-01-12 06:28:05 WARN  [pages.homepage] Warn Message!
+2024-01-12 06:28:05 ERROR [pages.homepage] Error Message!
+2024-01-12 06:28:05 FATAL [pages.homepage] Fatal Message!
+2024-01-12 06:28:13 INFO  [utils.Base] Browser Launched
+2024-01-12 06:28:15 INFO  [utils.Base] Browser Loaded the URL
+2024-01-12 06:28:17 INFO  [pages.homepage] 1234
+2024-01-12 06:28:17 INFO  [pages.homepage] qwert
+2024-01-12 06:28:17 INFO  [pages.homepage] Chrome
+2024-01-12 06:28:17 INFO  [pages.homepage] Info Message!
+2024-01-12 06:28:17 WARN  [pages.homepage] Warn Message!
+2024-01-12 06:28:17 ERROR [pages.homepage] Error Message!
+2024-01-12 06:28:17 FATAL [pages.homepage] Fatal Message!
+2024-01-12 06:28:26 INFO  [utils.Base] Browser Launched
+2024-01-12 06:28:28 INFO  [utils.Base] Browser Loaded the URL
+2024-01-12 06:28:29 INFO  [pages.homepage] 1234
+2024-01-12 06:28:29 INFO  [pages.homepage] qwert
+2024-01-12 06:28:29 INFO  [pages.homepage] Chrome
+2024-01-12 06:28:29 INFO  [pages.homepage] Info Message!
+2024-01-12 06:28:29 WARN  [pages.homepage] Warn Message!
+2024-01-12 06:28:29 ERROR [pages.homepage] Error Message!
+2024-01-12 06:28:29 FATAL [pages.homepage] Fatal Message!
